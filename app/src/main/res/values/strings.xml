@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Electronic Scale</string>
+    <string name="electronic">Electronic Scale</string>
+    <string name="weight">weight：</string>
+    <string name="weight_value">0.000</string>
+    <string name="weight_unit">Kg</string>
+    <string name="steady">(Has been stable 111)</string>
+    <string name="qupi">peel</string>
+    <string name="serial_port">ttyS4</string>
+    <string name="price">$ %s/500g</string>
+    <string name="apple">Apple</string>
+    <string name="corn">Corn</string>
+    <string name="grape">Grape</string>
+    <string name="mango">Mango</string>
+    <string name="orange">Orange</string>
+    <string name="pear">Pear</string>
+    <string name="watermelon">Watermenlon</string>
+    <string name="total_price">TotalPrice : %s dollar</string>
+    <string name="zero_seting">Zero setting</string>
+</resources>
